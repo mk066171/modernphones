@@ -1,0 +1,64 @@
+newmtl iphone_17_pro_anodized_aluminum
+Kd 1 1 1
+d 1
+map_Kd #iphone_17_pro_anodized_aluminum
+
+newmtl iphone_17_pro_plastic_antena
+Kd 1 1 1
+d 1
+map_Kd #iphone_17_pro_plastic_antena
+
+newmtl iphone_17_pro_plastic_port
+Kd 1 1 1
+d 1
+map_Kd #iphone_17_pro_plastic_port
+
+newmtl iphone_17_pro_camera_filter
+Kd 1 1 1
+d 1
+map_Kd #iphone_17_pro_camera_filter
+
+newmtl iphone_17_pro_material
+Kd 1 1 1
+d 1
+map_Kd #iphone_17_pro_material
+
+newmtl iphone_17_pro_metal_screw
+Kd 1 1 1
+d 1
+map_Kd #iphone_17_pro_metal_screw
+
+newmtl iphone_17_pro_display_frame
+Kd 1 1 1
+d 1
+map_Kd #iphone_17_pro_display_frame
+
+newmtl iphone_17_pro_camera_mirror_filter
+Kd 1 1 1
+d 1
+map_Kd #iphone_17_pro_camera_mirror_filter
+
+newmtl iphone_17_pro_camera_lens
+Kd 1 1 1
+d 1
+map_Kd #iphone_17_pro_camera_lens
+
+newmtl iphone_17_pro_metal_mesh
+Kd 1 1 1
+d 1
+map_Kd #iphone_17_pro_metal_mesh
+
+newmtl iphone_17_pro_frosted_glass
+Kd 1 1 1
+d 1
+map_Kd #iphone_17_pro_frosted_glass
+
+newmtl iphone_17_pro_oled_off
+Kd 1 1 1
+d 1
+map_Kd #iphone_17_pro_oled_off
+
+newmtl iphone_17_pro_oled
+Kd 1 1 1
+d 1
+map_Kd #iphone_17_pro_oled

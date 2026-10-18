@@ -1,0 +1,84 @@
+newmtl iphone_18_pro_max_17promax_color
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_17promax_color
+
+newmtl iphone_18_pro_max_17promax_glass
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_17promax_glass
+
+newmtl iphone_18_pro_max_17promax_black2
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_17promax_black2
+
+newmtl iphone_18_pro_max_17promax_color3
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_17promax_color3
+
+newmtl iphone_18_pro_max_material_002
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_material_002
+
+newmtl iphone_18_pro_max_17promax_color2
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_17promax_color2
+
+newmtl iphone_18_pro_max_17promax_black1
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_17promax_black1
+
+newmtl iphone_18_pro_max_17promax_g
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_17promax_g
+
+newmtl iphone_18_pro_max_17promax_lens
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_17promax_lens
+
+newmtl iphone_18_pro_max_material
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_material
+
+newmtl iphone_18_pro_max_17promax_logo
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_17promax_logo
+
+newmtl iphone_18_pro_max_17promax_1111
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_17promax_1111
+
+newmtl iphone_18_pro_max_17promax_2222
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_17promax_2222
+
+newmtl iphone_18_pro_max_17promax_black2_001
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_17promax_black2_001
+
+newmtl iphone_18_pro_max_17promax_2112_001
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_17promax_2112_001
+
+newmtl iphone_18_pro_max_17promax_lens2_001
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_17promax_lens2_001
+
+newmtl iphone_18_pro_max_material_001
+Kd 1 1 1
+d 1
+map_Kd #iphone_18_pro_max_material_001

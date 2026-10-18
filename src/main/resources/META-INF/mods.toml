@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="CC-BY-4.0 (models: see CREDITS.txt)"
+
+[[mods]]
+modId="modernphones"
+version="${file.jarVersion}"
+displayName="Modern Phones"
+description='''Adds 6 modern phones (iPhone 16 Pro Max, 17 Pro, 18 Pro Max, Xiaomi 17 Pro Max, Poco F7, Pixel 10a) as 3D items.
+Altı modern telefonu 3D eşya olarak ekler. Sağ tıkla: saat ve koordinatlar.'''
+
+[[dependencies.modernphones]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.modernphones]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

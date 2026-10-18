@@ -1,0 +1,59 @@
+newmtl pixel_10a_camera_base
+Kd 1 1 1
+d 1
+map_Kd #pixel_10a_camera_base
+
+newmtl pixel_10a_glass
+Kd 1 1 1
+d 1
+map_Kd #pixel_10a_glass
+
+newmtl pixel_10a_base
+Kd 1 1 1
+d 1
+map_Kd #pixel_10a_base
+
+newmtl pixel_10a_camera
+Kd 1 1 1
+d 1
+map_Kd #pixel_10a_camera
+
+newmtl pixel_10a_camera_gloss
+Kd 1 1 1
+d 1
+map_Kd #pixel_10a_camera_gloss
+
+newmtl pixel_10a_lens
+Kd 1 1 1
+d 1
+map_Kd #pixel_10a_lens
+
+newmtl pixel_10a_back_panel
+Kd 1 1 1
+d 1
+map_Kd #pixel_10a_back_panel
+
+newmtl pixel_10a_screen
+Kd 1 1 1
+d 1
+map_Kd #pixel_10a_screen
+
+newmtl pixel_10a_bezel
+Kd 1 1 1
+d 1
+map_Kd #pixel_10a_bezel
+
+newmtl pixel_10a_black
+Kd 1 1 1
+d 1
+map_Kd #pixel_10a_black
+
+newmtl pixel_10a_antenna
+Kd 1 1 1
+d 1
+map_Kd #pixel_10a_antenna
+
+newmtl pixel_10a_flash
+Kd 1 1 1
+d 1
+map_Kd #pixel_10a_flash

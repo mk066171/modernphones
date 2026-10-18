@@ -1,0 +1,19 @@
+newmtl xiaomi_17_pro_max_display
+Kd 1 1 1
+d 1
+map_Kd #xiaomi_17_pro_max_display
+
+newmtl xiaomi_17_pro_max_display_back
+Kd 1 1 1
+d 1
+map_Kd #xiaomi_17_pro_max_display_back
+
+newmtl xiaomi_17_pro_max_lens
+Kd 1 1 1
+d 1
+map_Kd #xiaomi_17_pro_max_lens
+
+newmtl xiaomi_17_pro_max_main
+Kd 1 1 1
+d 1
+map_Kd #xiaomi_17_pro_max_main

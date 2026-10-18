@@ -1,0 +1,146 @@
+{
+ "loader": "forge:obj",
+ "model": "modernphones:models/item/poco_f7.obj",
+ "flip_v": false,
+ "textures": {
+  "poco_f7_camerablock1": "modernphones:item/poco_f7_camerablock1",
+  "poco_f7_camerablock2": "modernphones:item/poco_f7_camerablock2",
+  "poco_f7_antenna": "modernphones:item/poco_f7_antenna",
+  "poco_f7_black": "modernphones:item/poco_f7_black",
+  "poco_f7_bezel": "modernphones:item/poco_f7_bezel",
+  "poco_f7_backpanel": "modernphones:item/poco_f7_backpanel",
+  "poco_f7_flash": "modernphones:item/poco_f7_flash",
+  "poco_f7_screen": "modernphones:item/poco_f7_screen",
+  "poco_f7_matteback": "modernphones:item/poco_f7_matteback",
+  "poco_f7_material": "modernphones:item/poco_f7_material",
+  "poco_f7_cameraframe": "modernphones:item/poco_f7_cameraframe",
+  "poco_f7_cameraframe2": "modernphones:item/poco_f7_cameraframe2",
+  "poco_f7_emissive": "modernphones:item/poco_f7_emissive",
+  "poco_f7_lens": "modernphones:item/poco_f7_lens",
+  "poco_f7_matte": "modernphones:item/poco_f7_matte",
+  "poco_f7_matteb": "modernphones:item/poco_f7_matteb",
+  "particle": "modernphones:item/poco_f7_camerablock1"
+ },
+ "display": {
+  "gui": {
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    0,
+    0
+   ],
+   "scale": [
+    1.15,
+    1.15,
+    1.15
+   ]
+  },
+  "firstperson_righthand": {
+   "rotation": [
+    0,
+    -20,
+    10
+   ],
+   "translation": [
+    1,
+    -1,
+    2
+   ],
+   "scale": [
+    0.9,
+    0.9,
+    0.9
+   ]
+  },
+  "firstperson_lefthand": {
+   "rotation": [
+    0,
+    20,
+    -10
+   ],
+   "translation": [
+    1,
+    -1,
+    2
+   ],
+   "scale": [
+    0.9,
+    0.9,
+    0.9
+   ]
+  },
+  "thirdperson_righthand": {
+   "rotation": [
+    75,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    2,
+    2
+   ],
+   "scale": [
+    0.6,
+    0.6,
+    0.6
+   ]
+  },
+  "thirdperson_lefthand": {
+   "rotation": [
+    75,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    2,
+    2
+   ],
+   "scale": [
+    0.6,
+    0.6,
+    0.6
+   ]
+  },
+  "ground": {
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    2,
+    0
+   ],
+   "scale": [
+    0.5,
+    0.5,
+    0.5
+   ]
+  },
+  "fixed": {
+   "rotation": [
+    0,
+    180,
+    0
+   ],
+   "translation": [
+    0,
+    0,
+    0
+   ],
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  }
+ },
+ "gui_light": "front"
+}

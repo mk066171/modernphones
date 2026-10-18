@@ -1,0 +1,143 @@
+{
+ "loader": "forge:obj",
+ "model": "modernphones:models/item/iphone_17_pro.obj",
+ "flip_v": false,
+ "textures": {
+  "iphone_17_pro_anodized_aluminum": "modernphones:item/iphone_17_pro_anodized_aluminum",
+  "iphone_17_pro_plastic_antena": "modernphones:item/iphone_17_pro_plastic_antena",
+  "iphone_17_pro_plastic_port": "modernphones:item/iphone_17_pro_plastic_port",
+  "iphone_17_pro_camera_filter": "modernphones:item/iphone_17_pro_camera_filter",
+  "iphone_17_pro_material": "modernphones:item/iphone_17_pro_material",
+  "iphone_17_pro_metal_screw": "modernphones:item/iphone_17_pro_metal_screw",
+  "iphone_17_pro_display_frame": "modernphones:item/iphone_17_pro_display_frame",
+  "iphone_17_pro_camera_mirror_filter": "modernphones:item/iphone_17_pro_camera_mirror_filter",
+  "iphone_17_pro_camera_lens": "modernphones:item/iphone_17_pro_camera_lens",
+  "iphone_17_pro_metal_mesh": "modernphones:item/iphone_17_pro_metal_mesh",
+  "iphone_17_pro_frosted_glass": "modernphones:item/iphone_17_pro_frosted_glass",
+  "iphone_17_pro_oled_off": "modernphones:item/iphone_17_pro_oled_off",
+  "iphone_17_pro_oled": "modernphones:item/iphone_17_pro_oled",
+  "particle": "modernphones:item/iphone_17_pro_anodized_aluminum"
+ },
+ "display": {
+  "gui": {
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    0,
+    0
+   ],
+   "scale": [
+    1.15,
+    1.15,
+    1.15
+   ]
+  },
+  "firstperson_righthand": {
+   "rotation": [
+    0,
+    -20,
+    10
+   ],
+   "translation": [
+    1,
+    -1,
+    2
+   ],
+   "scale": [
+    0.9,
+    0.9,
+    0.9
+   ]
+  },
+  "firstperson_lefthand": {
+   "rotation": [
+    0,
+    20,
+    -10
+   ],
+   "translation": [
+    1,
+    -1,
+    2
+   ],
+   "scale": [
+    0.9,
+    0.9,
+    0.9
+   ]
+  },
+  "thirdperson_righthand": {
+   "rotation": [
+    75,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    2,
+    2
+   ],
+   "scale": [
+    0.6,
+    0.6,
+    0.6
+   ]
+  },
+  "thirdperson_lefthand": {
+   "rotation": [
+    75,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    2,
+    2
+   ],
+   "scale": [
+    0.6,
+    0.6,
+    0.6
+   ]
+  },
+  "ground": {
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    2,
+    0
+   ],
+   "scale": [
+    0.5,
+    0.5,
+    0.5
+   ]
+  },
+  "fixed": {
+   "rotation": [
+    0,
+    180,
+    0
+   ],
+   "translation": [
+    0,
+    0,
+    0
+   ],
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  }
+ },
+ "gui_light": "front"
+}

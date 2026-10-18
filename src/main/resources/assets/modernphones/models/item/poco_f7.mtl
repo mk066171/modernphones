@@ -1,0 +1,79 @@
+newmtl poco_f7_camerablock1
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_camerablock1
+
+newmtl poco_f7_camerablock2
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_camerablock2
+
+newmtl poco_f7_antenna
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_antenna
+
+newmtl poco_f7_black
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_black
+
+newmtl poco_f7_bezel
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_bezel
+
+newmtl poco_f7_backpanel
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_backpanel
+
+newmtl poco_f7_flash
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_flash
+
+newmtl poco_f7_screen
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_screen
+
+newmtl poco_f7_matteback
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_matteback
+
+newmtl poco_f7_material
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_material
+
+newmtl poco_f7_cameraframe
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_cameraframe
+
+newmtl poco_f7_cameraframe2
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_cameraframe2
+
+newmtl poco_f7_emissive
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_emissive
+
+newmtl poco_f7_lens
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_lens
+
+newmtl poco_f7_matte
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_matte
+
+newmtl poco_f7_matteb
+Kd 1 1 1
+d 1
+map_Kd #poco_f7_matteb

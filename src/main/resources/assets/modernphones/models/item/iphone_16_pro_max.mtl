@@ -1,0 +1,49 @@
+newmtl iphone_16_pro_max_black_002
+Kd 1 1 1
+d 1
+map_Kd #iphone_16_pro_max_black_002
+
+newmtl iphone_16_pro_max_basecolor_001
+Kd 1 1 1
+d 1
+map_Kd #iphone_16_pro_max_basecolor_001
+
+newmtl iphone_16_pro_max_metalframe_002
+Kd 1 1 1
+d 1
+map_Kd #iphone_16_pro_max_metalframe_002
+
+newmtl iphone_16_pro_max_metal_001
+Kd 1 1 1
+d 1
+map_Kd #iphone_16_pro_max_metal_001
+
+newmtl iphone_16_pro_max_apple_logo_001
+Kd 1 1 1
+d 1
+map_Kd #iphone_16_pro_max_apple_logo_001
+
+newmtl iphone_16_pro_max_screen_001
+Kd 1 1 1
+d 1
+map_Kd #iphone_16_pro_max_screen_001
+
+newmtl iphone_16_pro_max_material_001
+Kd 1 1 1
+d 1
+map_Kd #iphone_16_pro_max_material_001
+
+newmtl iphone_16_pro_max_material
+Kd 1 1 1
+d 1
+map_Kd #iphone_16_pro_max_material
+
+newmtl iphone_16_pro_max_gray_001
+Kd 1 1 1
+d 1
+map_Kd #iphone_16_pro_max_gray_001
+
+newmtl iphone_16_pro_max_lensinglass
+Kd 1 1 1
+d 1
+map_Kd #iphone_16_pro_max_lensinglass
